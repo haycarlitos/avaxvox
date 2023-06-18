@@ -38,13 +38,13 @@
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "ethereum-waffle": "^4.0.10",
-    "ethers": "^6.6.0",
     "hardhat": "^2.15.0",
     "prettier": "^2.5.1",
     "sass": "~1.43.5",
     "solc": "^0.8.20"
   },
   "dependencies": {
+    "ethers": "^6.6.0",
     "next": "12.0.4",
     "react": "17.0.2",
     "react-dom": "17.0.2"
